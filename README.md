@@ -9,8 +9,11 @@ This repository contains my workthroughs for the Hugging Face courses. I will be
 
 
 ## Colabs
+  
+### Course 1
+- Unit 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nbiish/huggingface_courses/blob/main/colabs/train_hf_games.ipynb)
+- [ ] Unit 1 Bonus coming soon!  
 
-- Course 1 - Unit 1 Workthrough [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nbiish/huggingface_courses/blob/main/colabs/train_hf_games.ipynb)
-- [ ] coming soon!
+### Course 2
 
 Feel free to use my workthroughs and colabs as a reference for your own learning. Happy coding!
