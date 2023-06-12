@@ -4,12 +4,13 @@ This repository contains my workthroughs for the Hugging Face courses. I will be
 
 ## Courses
 
-- [Course 1: Natural Language Processing with Transformers](https://huggingface.co/course/natural-language-processing-with-transformers)
-- [Course 2: Applied Deep Learning for NLP](https://huggingface.co/course/applied-deep-learning-for-nlp)
+- [Course 1: Applied Deep Learning for NLP](https://huggingface.co/learn/deep-rl-course)
+- [Course 2: Natural Language Processing with Transformers](https://huggingface.co/learn/nlp-course)
+
 
 ## Colabs
 
-- [Colab 1: Introduction to Transformers](https://colab.research.google.com/drive/1234567890abcdefg)
-- [Colab 2: Fine-tuning a Pretrained Model](https://colab.research.google.com/drive/1234567890abcdefg)
+- [ ] 1st colab
+- [ ] coming soon!
 
 Feel free to use my workthroughs and colabs as a reference for your own learning. Happy coding!
