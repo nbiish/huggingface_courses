@@ -4,6 +4,6 @@ This repository contains my workthroughs for the Hugging Face courses. I will be
 
 ## Courses
 
-- [Deel RL Course - 🤗](https://huggingface.co/learn/deep-rl-course)
+- [Deep RL Course - by 🤗](https://huggingface.co/learn/deep-rl-course)
 
 Feel free to use my workthroughs and colabs as a reference for your own learning. Happy coding!
